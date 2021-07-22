@@ -1,1 +1,3 @@
 # JPetStoreUiAutomationSuite
+
+Diogo
